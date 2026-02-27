@@ -1,0 +1,5 @@
+Create Database VIN;
+Create SCHEMA DECODE;
+DROP SCHEMA PUBLIC;
+
+
